@@ -35,6 +35,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* write all the steps invloved */
+
 1.Type the program in Quartus software.
 2.Compile and run the program.
 3.Generate the RTL schematic and save the logic diagram.
@@ -61,4 +62,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **RESULTS**
 
 Thus, the SR Flip-Flop is designed, and its functionality is validated using the truth table and timing diagrams.
-Thus, the SR Flip-Flop is designed, and its functionality is validated using the truth table and timing diagrams.
+
